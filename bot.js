@@ -128,7 +128,7 @@ bot.onText(/\/vps/, async (msg, match) => {
 
 \n\nYour Hax VPS is \n
 
- 2a01:4f8:242:200b:1234:1234:1c47:0001/112\n
+ 2a01:4f8:13a:2690:face:0ca5:ed06:0001 \n
 
 Pass:John123
 
@@ -136,9 +136,9 @@ Your Woiden Vps is
 
 IP & Public Port
 
-Public IPv4:	95.214.53.226SSH Port:	24201
+Public IPv4:	163.172.67.56 Port:	18391
 
-Usable Port: 24202 to 24209
+Usable Port: 18342 to 18391
 
 Pass:John123
 
